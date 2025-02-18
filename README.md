@@ -1,6 +1,6 @@
 ### Olá! eu sou o Luciano David 👊🏿
 
-📚Cursando o 5º periodo de Analise e desenvolvimento de sistemas <br>
+📚Formando em Analise e desenvolvimento de sistemas <br>
 👨‍💻Estudando tecnologias de front-end e back-end<br>
 🤖Trabalhando em projetos pessoais de arduino<br>
 
